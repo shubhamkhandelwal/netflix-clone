@@ -1,0 +1,27 @@
+.plan {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem;
+}
+
+.plan>button {
+    padding: 0.5rem 1rem;
+    background-color: #e50914;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.plan__desc {
+    display: flex;
+    flex-direction: column;
+}
+
+.plan__quality {
+    font-size: 0.9rem;
+}
+
+.plan>button:disabled {
+    background-color: gray;
+}

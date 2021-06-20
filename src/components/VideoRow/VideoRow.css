@@ -1,0 +1,50 @@
+.video-row {
+    padding: 2rem;
+    overflow-y: none;
+    overflow-x: scroll;
+    color: white;
+    max-width: 100%;
+}
+
+.video-row__title {
+    margin-bottom: 1rem;
+    line-height: 1.25vw;
+    font-size: 16px;
+}
+
+.video-row::-webkit-scrollbar {
+    display: none;
+}
+
+.video-row__posters {
+    display: flex;
+    object-fit: contain;
+}
+
+.video-row__poster {
+    margin-right: 0.3rem;
+    max-height: 150px;
+    transition: transform 350ms;
+}
+
+.video-row__poster:hover {
+    cursor: pointer;
+    transform: scale(1.07);
+}
+
+.video-row__poster-large {
+    margin-right: 0.3rem;
+    max-height: 300px;
+    transition: transform 350ms;
+}
+
+.video-row__poster-large:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.video-row_player {
+    margin-top: 1rem;
+    width: 100%;
+    max-width: 100%;
+}

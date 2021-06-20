@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 2rem;
+    width: 100%;
+    transition-timing-function: ease-in;
+    transition: all 450ms;
+    z-index: 1;
+}
+
+.navbar__logo {
+    left: 0;
+    padding-left: 1rem;
+    width: 132px;
+    cursor: pointer;
+}
+
+.navbar__avatar {
+    right: 0;
+    width: 32px;
+    padding-right: 1rem;
+}
+
+.backdrop {
+    background-color: black;
+}
