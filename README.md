@@ -1,16 +1,22 @@
-# Welcome to Netflix-clone
-Hello All,
+# Netflix clone using React , Redux and firebase
 
-This repo is an attempt to clone netflix with full authentication using firebase
+Developed a Netflix clone using React, Redux and Firebase. A user can perform following action in the application.
+- Login 
+- Signup
+- Check movies under different genre
+- Play trailer on Youtube.
 
-Below are the component used to build this clone
+# Technology & Framework
 
 - React
 - React Router
 - Redux
 - Material UI
 - Firebase
+- Movie DB API
+- React-Youtube
 
-You can use this demo --https://clone-netflix-ed446.web.app/
+# LIVE DEMO
 
-Happy Coding !!
+Checkout the demo on --https://clone-netflix-ed446.web.app/
+
