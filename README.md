@@ -20,3 +20,6 @@ Developed a Netflix clone using React, Redux and Firebase. A user can perform fo
 
 Checkout the demo on --https://clone-netflix-ed446.web.app/
 
+# Clone Screenshot
+
+
