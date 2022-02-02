@@ -22,4 +22,10 @@ Checkout the demo on --https://clone-netflix-ed446.web.app/
 
 # Clone Screenshot
 
+![](https://github.com/shubhamkhandelwal/netflix-clone/blob/main/Github_asset/Home%20Screen%202.png?raw=true)
+
+![](https://github.com/shubhamkhandelwal/netflix-clone/blob/main/Github_asset/Home%20Screen.png?raw=true)
+
+![](https://github.com/shubhamkhandelwal/netflix-clone/blob/main/Github_asset/User%20Profile.png?raw=true)
+
 
